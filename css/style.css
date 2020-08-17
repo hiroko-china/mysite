@@ -1,0 +1,39 @@
+.navbar-brand {
+    font-size: 35px;
+}
+
+.place {
+    font-size: 20px;
+}
+
+#location {
+    margin-top: 40px;
+}
+
+.section-article {
+    font-size: 20px;
+}
+
+.card-title {
+    font-size: 30px;
+
+}
+.card-text {
+    font-size: 20px;
+}
+
+.card {
+    margin-top: 50px;
+}
+.post-heading p{
+    font-size: 17px;
+    text-align: center;
+}
+
+.masthead {
+    height: 500px;
+}
+
+.section-heading p {
+    font-size: 20px;
+}
